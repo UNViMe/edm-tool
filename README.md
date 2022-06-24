@@ -3,7 +3,7 @@ In this repository you can find the *instances* of the *model proposed* in the p
 This work is part of the "***Search for knowledge by applying data science in the educational domain***" Research Project of the *National University of Villa Mercedes* , conformed by the Professors:
 - Dr. German Montejano,
 - Mg. Gabriel Novillo Rangone,
-- Dr. Ana Garis,
+- Dra. Ana Garis,
 - Lic. Walter Molina,
 - Dr. Francisco Bavera,
 - Mg. Carlos Pizarro;
