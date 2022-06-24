@@ -28,7 +28,7 @@ and the students of Information Systems Engineering:
 
 You can run the instances in two ways:
 1. Using [Colab](https://colab.research.google.com/), a tool from Google that allows you to write and execute Python in your browser, with zero configuration, free access to GPUs and easy sharing.
-2. Using your own setup, following the steps below in section XXXXXXX.
+2. Using your own setup, following the steps below in section ***Run in your own environment***.
 
 ## Run in Colab
 Whether you're a  **student**, a  **data scientist**  or an  **AI researcher**,  Colab makes easier to get started as you don't need to setup environments or special software.
@@ -41,10 +41,13 @@ Go to [edm-tool/Unvime2020y2021GitHub.ipynb](https://github.com/UNViMe/edm-tool/
 ### Step 2. Upload the notebook to Colab & Google Drive.
 Go to https://colab.research.google.com/ and select `Upload` tab in the dialog.
 Then, choose (or drag and drop) the file you downloaded in *Step 1* to get it uploaded to *Google Drive*.
+![Adding files to Colab](https://raw.githubusercontent.com/UNViMe/edm-tool/main/snapshots/uploadFile.png)
 > ⚠️ Please, note that *this action will create a new folder on you Google Drive root* named **Colab Notebooks**, so you can open this file later directly from Colab or Drive.
+> ![Colab Folder in Google Drive](https://raw.githubusercontent.com/UNViMe/edm-tool/main/snapshots/colabFolder.png)
 
 ### Step 3. Run the scripts.
 You are now ready to run the scripts following the instructions in the comments in the notebook code.
+![Colab Unvime2020y2021GitHub Notebook](https://raw.githubusercontent.com/UNViMe/edm-tool/main/snapshots/colabNotebook.png)
 
 
 ## Run in your own environment
@@ -86,4 +89,3 @@ You are now ready to run the scripts one or more of the following scripts:
 ---
 This is a ⚖️ *GNU GPLv3* work, made with ❤️ in 🇦🇷 .
 **Need help?** Get in contact 👉 gnovillo@unvime.edu.ar.
-
