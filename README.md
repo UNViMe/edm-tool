@@ -27,8 +27,8 @@ and the students of Information Systems Engineering:
 # How to run this project?
 
 You can run the instances in two ways:
-1. Using [Colab](https://colab.research.google.com/), a tool from Google that allows you to write and execute Python in your browser, with zero configuration, free access to GPUs and easy sharing.
-2. Using your own setup, following the steps below in section ***Run in your own environment***.
+1. Using [Colab](https://colab.research.google.com/), a tool from Google that allows you to write and execute Python in your browser, with zero configuration, free access to GPUs and easy sharing, following the steps form the section ***[Run in Colab](https://github.com/UNViMe/edm-tool/blob/main/README.md#run-in-colab)***.
+2. Using your own setup, following the steps below in section ***[Run in your own environment](https://github.com/UNViMe/edm-tool#run-in-your-own-environment)***.
 
 ## Run in Colab
 Whether you're a  **student**, a  **data scientist**  or an  **AI researcher**,  Colab makes easier to get started as you don't need to setup environments or special software.
